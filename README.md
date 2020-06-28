@@ -5,10 +5,10 @@
 
 
 
-#telecharger le repo ou clooner
+# telecharger le repo ou clooner
 
 
 # npm install 
 
-#npm start
+# npm start
  
